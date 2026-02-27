@@ -1,0 +1,55 @@
+name: NumPy
+description: The fundamental package for scientific computing with Python
+image: https://numpy.org/images/logo.svg
+url: https://numpy.org
+created: '2024'
+modified: '2024'
+apis:
+- name: NumPy API
+  description: Core numerical computing library for Python providing multi-dimensional arrays and mathematical functions
+  image: https://numpy.org/images/logo.svg
+  humanURL: https://numpy.org
+  baseURL: https://pypi.org/project/numpy/
+  tags:
+  - Scientific Computing
+  - Arrays
+  - Mathematics
+  - Python
+  - Linear Algebra
+  - Statistics
+  properties:
+  - type: Documentation
+    url: https://numpy.org/doc/stable/
+  - type: API Reference
+    url: https://numpy.org/doc/stable/reference/
+  - type: User Guide
+    url: https://numpy.org/doc/stable/user/
+  - type: Installation Guide
+    url: https://numpy.org/install/
+  - type: GitHub Repository
+    url: https://github.com/numpy/numpy
+  - type: Issue Tracker
+    url: https://github.com/numpy/numpy/issues
+  - type: PyPI Package
+    url: https://pypi.org/project/numpy/
+  - type: Tutorial
+    url: https://numpy.org/doc/stable/user/quickstart.html
+  - type: Release Notes
+    url: https://numpy.org/doc/stable/release.html
+  - type: Contributing Guide
+    url: https://numpy.org/devdocs/dev/
+  - type: Mailing List
+    url: https://mail.python.org/mailman/listinfo/numpy-discussion
+  - type: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/numpy
+maintainers:
+- name: NumPy Developers
+  email: numpy-discussion@python.org
+  url: https://numpy.org/community/
+tags:
+- Scientific Computing
+- Numerical Analysis
+- Python Library
+- Open Source
+- Data Science
+- Machine Learning
