@@ -8,12 +8,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Scientific Computing
-  - Numerical Analysis
-  - Python Library
-  - Open Source
   - Data Science
   - Machine Learning
+  - Numerical Analysis
+  - Open Source
+  - Python Library
+  - Scientific Computing
 url: https://raw.githubusercontent.com/api-evangelist/numpy/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
@@ -26,10 +26,10 @@ apis:
       arrays and mathematical functions.
     humanURL: https://numpy.org/doc/stable/reference/
     tags:
-      - Scientific Computing
       - Arrays
       - Mathematics
       - Python
+      - Scientific Computing
     properties:
       - type: Documentation
         url: https://numpy.org/doc/stable/
