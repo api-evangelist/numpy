@@ -35,16 +35,16 @@ apis:
         url: https://numpy.org/doc/stable/
       - type: Reference
         url: https://numpy.org/doc/stable/reference/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://numpy.org/doc/stable/user/quickstart.html
 common:
   - type: Website
     url: https://numpy.org/
   - type: Documentation
     url: https://numpy.org/doc/stable/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/numpy
-  - type: Change Log
+  - type: ChangeLog
     url: https://numpy.org/doc/stable/release.html
 maintainers:
   - FN: Kin Lane
