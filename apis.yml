@@ -38,6 +38,8 @@ apis:
       - type: GettingStarted
         url: https://numpy.org/doc/stable/user/quickstart.html
 common:
+  - type: DomainSecurity
+    url: security/numpy-domain-security.yml
   - type: Website
     url: https://numpy.org/
   - type: Documentation
