@@ -21,6 +21,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/numpy.png
 tags:
   - Data Science
+  - Machine-Learning
+  - Numerical Analysis
+  - Open-Source
+  - Python Library
+  - Scientific Computing
+tags_raw:
+  - Data Science
   - Machine Learning
   - Numerical Analysis
   - Open Source
