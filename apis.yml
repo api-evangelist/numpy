@@ -32,9 +32,9 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/numpy.png
 tags:
   - Data Science
-  - Machine-Learning
+  - Machine Learning
   - Numerical Analysis
-  - Open-Source
+  - Open Source
   - Python Library
   - Scientific Computing
 tags_raw:
@@ -44,6 +44,8 @@ tags_raw:
   - Open Source
   - Python Library
   - Scientific Computing
+  - Machine-Learning
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/numpy/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-04-28'
