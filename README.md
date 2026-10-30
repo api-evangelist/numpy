@@ -1,4 +1,4 @@
-# NumPy (numpy)
+# NumPy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,50 +66,102 @@
 
 The fundamental package for scientific computing with Python. NumPy provides multi-dimensional array objects, various derived objects, and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, FFT, and random number generation.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/numpy/refs/heads/main/apis.yml)
+**Areas:** Data Science · Machine Learning · Numerical Analysis · Open Source · Python Library · Scientific Computing
 
-## Scope
+## NumPy on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for NumPy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/numpy/](https://apis.io/providers/numpy/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Data Science, Machine Learning, Numerical Analysis, Open Source, Python Library, Scientific Computing
+- [NumPy API](https://apis.io/apis/numpy/numpy-api/) — Core numerical computing library for Python providing multi-dimensional arrays and mathematical functions.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### NumPy API
-Core numerical computing library for Python providing multi-dimensional arrays and mathematical functions. NumPy is a Python library and C API rather than a network-accessible HTTP service, so no OpenAPI specification is published for it.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://numpy.org/doc/stable/reference/](https://numpy.org/doc/stable/reference/)
+- [Numpy Domain Security](https://apis.io/security/numpy/numpy-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Arrays, Mathematics, Python, Scientific Computing
+- [Numpy Plans Pricing](https://apis.io/plans/numpy/numpy-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://numpy.org/doc/stable/)
-- [Reference](https://numpy.org/doc/stable/reference/)
-- [Getting Started](https://numpy.org/doc/stable/user/quickstart.html)
+Published request limits.
 
-## Common Properties
+- [Numpy Rate Limits](https://apis.io/rate-limits/numpy/numpy-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Numpy Finops](https://apis.io/finops/numpy/numpy-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://numpy.org/)
 - [Documentation](https://numpy.org/doc/stable/)
-- [GitHub Organization](https://github.com/numpy)
-- [Change Log](https://numpy.org/doc/stable/release.html)
+- [Changelog](https://numpy.org/doc/stable/release.html)
+- [GitHub](https://github.com/numpy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/numpy/](https://apis.io/providers/numpy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NumPy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/numpy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
